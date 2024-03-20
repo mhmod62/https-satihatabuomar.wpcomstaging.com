@@ -1,0 +1,7 @@
+صدى "# https-satihatabuomar.wpcomstaging.com" >> README.md 
+git init 
+git add README.md 
+git الالتزام -m "الالتزام الأول" 
+فرع git -M الرئيسي 
+git Remote إضافة الأصل https://github.com/mhmod62/ https-satihatabuomar.wpcomstaging.com.git
+ git Push -u Origin main
